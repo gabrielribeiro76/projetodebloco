@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0c5ae00-e577-4bb4-a09c-187c36ee6303" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Atendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ContratoDeServico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/FaturaDeServico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/PesquisaDeSatisfacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ProfissionalDeLimpeza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ProgramacaoSemanal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ReciboDePagamentoDeFatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Reserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Servico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Supervisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repositories/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f0c5ae00-e577-4bb4-a09c-187c36ee6303" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GabrielRibeiro" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -104,11 +88,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701188421501</updated>
-      <workItem from="1701188422643" duration="337000" />
+      <workItem from="1701188422643" duration="641000" />
     </task>
+    <task id="LOCAL-00001" summary="projeto de bloco AT">
+      <option name="closed" value="true" />
+      <created>1701188890581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701188890581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeto de bloco AT" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto de bloco AT" />
   </component>
 </project>
